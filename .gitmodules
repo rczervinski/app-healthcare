@@ -1,0 +1,3 @@
+[submodule "gws"]
+	path = gws
+	url = https://github.com/Lucas-LPG/gws.git
